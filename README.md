@@ -9,12 +9,11 @@ This project explores how regression models learn from data by studying the rela
 - Python 3
 - NumPy
 - Matplotlib
-- Jupyter Notebook
 
 ## How to Run
 
 1. Clone or download this repository.
-2. Open `stellar_luminosity_hands_on.ipynb` in Jupyter Notebook or JupyterLab.
+2. Open `stellar_luminosity_hands_on.ipynb` in a Jupyter-compatible environment.
 3. Run all cells from top to bottom.
 
 No machine-learning libraries such as scikit-learn, TensorFlow, or PyTorch are required.
